@@ -4,11 +4,6 @@ A machine learning–powered web application that predicts the likelihood of hea
 Built using **Python, Scikit-Learn, Random Forest (92% accuracy), Streamlit UI**, and deployed online for real-time predictions.
 
 
-Live Demo  
-Try the app here:
-https://heart-health-monitor-gvk4ssjakq5yvd5czzm7eg.streamlit.app/
-
-
 Project Overview
 
 Heart disease is one of the leading causes of death worldwide.  
