@@ -1,4 +1,4 @@
-# ❤️ Heart Health Monitor – Machine Learning Web App
+Heart Health Monitor 
 
 A machine learning–powered web application that predicts the likelihood of heart disease based on clinical parameters.  
 Built using **Python, Scikit-Learn, Random Forest (92% accuracy), Streamlit UI**, and deployed online for real-time predictions.
